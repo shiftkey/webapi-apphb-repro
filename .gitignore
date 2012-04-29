@@ -4,3 +4,9 @@ obj
 
 # mstest test results
 TestResults
+
+packages
+_ReSharper*
+*.suo
+*ncrunch*
+*.user
